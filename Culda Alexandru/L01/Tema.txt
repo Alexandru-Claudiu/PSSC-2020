@@ -1,1 +1,9 @@
-RRRRRRR test
+Unele dintre functionalitatile pe care le-am gasit:
+
+- posibilitatea de a fi ajutat, respectiv de a ajuta pe altii prin intermediul unei postari cu intrebarea ta, respectiv prin sectiunea de comentarii
+- exista posibilitatea de votare a comentariilor, pentru a gasi cu usurinta cel mai bun raspuns
+- printr-un raspuns corect apreciat de multi utilizatori, poti avansa in rang si poti primi ca si "cadou" unele privilegii precum cel de a edita unele postari
+- prin sectiunea Jobs iti pot gasii viitorul job
+- functia de cautare prin care poti cauta postari despre o categorie sau o postare specifica
+- functia ce iti da oportunitatea de a-ti calcula salariul pe care il poti primi in functie de datele introduse
+- poti primi oferte de job
