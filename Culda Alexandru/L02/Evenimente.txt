@@ -1,0 +1,22 @@
+
+Evenimente ale StackOverflow-ului:
+
+- Inregistrare StackOverflow
+- Punere intrebare
+- Postare raspuns
+- Posibilitate de editare a intrebarii, respectiv raspunsului
+- Feedback referitor la raspuns, votare pozitiva/negativa
+- Deblocarea unor caracteristici cand ai reputatie mare
+- Primire de puncte pentru raspunsuri ok si votate corespunzator
+- Posibilitate aplicare job
+- Notificare adaugare de raspuns la un post urmarit
+
+
+Context:
+
+- Contextul inregistrarii
+- Contextul intrebarii
+- Contextul raspunsului
+- Contextul reputatiei
+- Contextul votului
+- Contextul notificarii
