@@ -11,7 +11,7 @@ namespace Test.App
             var cmd = new CreateQuestionCmd("Titlu1", "Descriere1", "c#");
             var result = CreateQuestion(cmd);
             result.Match(
-                ProcessQuestionCraeted,
+                ProcessQuestionCreated,
                 ProcessQuestionNotCreated,
                 ProcessInvalidQuestion
                 );
