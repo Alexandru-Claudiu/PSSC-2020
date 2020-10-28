@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Runtime.Remoting.Messaging;
 
 namespace Test.App
 {
@@ -11,7 +12,7 @@ namespace Test.App
             var cmd = new CreateQuestionCmd("Titlu1", "Descriere1", "c#");
             var result = CreateQuestion(cmd);
             result.Match(
-                ProcessQuestionCraeted,
+                ProcessQuestionCreated,
                 ProcessQuestionNotCreated,
                 ProcessInvalidQuestion
                 );
